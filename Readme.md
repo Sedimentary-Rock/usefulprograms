@@ -1,6 +1,7 @@
 
 # Seal-Android Youtube Downloader
 
+- 建議使用 arm64-v8a
 -  [GitHub releases](https://github.com/JunkFood02/Seal/releases/latest) 
 
 
