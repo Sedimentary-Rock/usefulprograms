@@ -7,7 +7,7 @@
 
 # File Converter
 
--  [Websit](https://file-converter.org/)
+-  [Website](https://file-converter.org/)
 
 
 # Microsoft Activation Scripts (MAS)
